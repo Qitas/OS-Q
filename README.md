@@ -1,58 +1,70 @@
-﻿# [Intel Atom](https://github.com/mcuyun/Atom) 
+﻿# [atom](https://github.com/sochub/atom)
 
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+[![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
-#### 归属：[X86架构](https://github.com/mcuyun/X86)
+#### 归属：[X86 architecture](https://github.com/sochub/X86)
 
-#### [关于悠云](https://github.com/mcuyun)可访问 www.mcuyun.com
+## [描述](https://github.com/sochub/atom/wiki) 
 
-## [描述](https://github.com/mcuyun/Atom/wiki) 
+atom（凌动）低功耗处理器，主要包括3个场景的3个系列
 
-Intel凌动低功耗平台，
+## [C系列](atom C/) 
 
-## [C系列](C/) 
-
-"Denverton" (14 nm)
+应用于服务器产品，最新架构 Denverton (14 nm)
 
 - Package FC-BGA 1310 size: 34 mm × 28 mm
 
-#### [C3308](https://github.com/mcuyun/C3308) 
+#### [C3308](https://github.com/sochub/C3308) 
 
-TDP 9.5 W
+芯片设计 TDP 9.5 W
 
 6 × PCIe 3.0
 
-#### [C3338](https://github.com/mcuyun/C3338) 
+#### [C3338](https://github.com/sochub/C3338) 
 
-TDP 9 W
-
-10 × PCIe 3.0
-
-#### [C3336](https://github.com/mcuyun/C3336) 
-
-TDP 11 W
+芯片设计 TDP 9 W
 
 10 × PCIe 3.0
 
-## [X系列](X/) 
+#### [C3336](https://github.com/sochub/C3336) 
 
-Cherry Trail-T" (14 nm)
+芯片设计 TDP 11 W
 
-TDP 2.17 W
+10 × PCIe 3.0
 
-- Package size: 17 mm × 17 × 1.0 mm
+## [X系列](atom X/) 
 
-#### [Z8330/Z8350](https://github.com/mcuyun/Z8350) 
+应用于移动设备，最新架构 Cherry Trail-T" (14 nm)
 
-#### [Z8500/Z8550](https://github.com/mcuyun/Z8500) 
+芯片设计 TDP 2.17 W ，Package size: 17 mm × 17 × 1.0 mm
 
-#### [Z8700/Z8750](https://github.com/mcuyun/Z8700) 
+#### [Z83xx](https://github.com/sochub/Z83) 
 
-## [E系列](E/) 
+包括Z8300/Z8330/Z8350，1.44GHz - 1.92GHz
+
+UTFCBGA592封装
+
+#### [Z85xx](https://github.com/sochub/Z85) 
+
+包括Z8500/Z8550，1.44GHz - 2.4GHz
+
+UTFCBGA1380封装
+
+#### [Z87xx](https://github.com/sochub/Z87) 
+
+包括Z8700/Z8750，1.6GHz - 2.56GHz
+
+UTFCBGA1380封装
+
+## [E系列](atom E/) 
+
+应用于嵌入式设备，最新架构 Bay Trail (22 nm)
+
+Package size: 25mm x 27mm
+
 
 ---
 
-###  [悠云，为嵌入式](http://www.mcuyun.com)   
+###  [SoC开发平台](http://www.qitas.cn)   
+
 ###  qitas@qitas.cn
-
-
