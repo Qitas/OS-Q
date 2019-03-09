@@ -8,7 +8,7 @@
 
 atom（凌动）低功耗处理器，主要包括3个场景的3个系列
 
-## [C系列](atom C/) 
+## [C系列](atomC/) 
 
 应用于服务器产品，最新架构 Denverton (14 nm)
 
@@ -32,7 +32,7 @@ atom（凌动）低功耗处理器，主要包括3个场景的3个系列
 
 10 × PCIe 3.0
 
-## [X系列](atom X/) 
+## [X系列](atomX/) 
 
 应用于移动设备，最新架构 Cherry Trail-T" (14 nm)
 
@@ -40,23 +40,23 @@ atom（凌动）低功耗处理器，主要包括3个场景的3个系列
 
 #### [Z83xx](https://github.com/sochub/Z83) 
 
-包括Z8300/Z8330/Z8350，1.44GHz - 1.92GHz
+包括 Z8300/Z8330/Z8350，1.44GHz - 1.92GHz
 
 UTFCBGA592封装
 
 #### [Z85xx](https://github.com/sochub/Z85) 
 
-包括Z8500/Z8550，1.44GHz - 2.4GHz
+包括 Z8500/Z8550，1.44GHz - 2.4GHz
 
 UTFCBGA1380封装
 
 #### [Z87xx](https://github.com/sochub/Z87) 
 
-包括Z8700/Z8750，1.6GHz - 2.56GHz
+包括 Z8700/Z8750，1.6GHz - 2.56GHz
 
 UTFCBGA1380封装
 
-## [E系列](atom E/) 
+## [E系列](atomE/) 
 
 应用于嵌入式设备，最新架构 Bay Trail (22 nm)
 
