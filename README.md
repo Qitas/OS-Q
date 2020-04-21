@@ -1,4 +1,4 @@
-﻿# [Pages](https://github.com/SoCXin/Pages)
+﻿# [Pages](https://github.com/SoCXin)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
 
