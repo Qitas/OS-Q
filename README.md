@@ -1,5 +1,6 @@
-﻿# [Pages](https://github.com/SoCXin)
+# [web](https://github.com/SoCXin/socxin.github.io) 
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
+[![Build Status](https://travis-ci.com/SoCXin/socxin.github.io.svg?branch=master)](https://travis-ci.com/SoCXin/socxin.github.io)
 
-###  [SoC芯平台](http://SoC.Xin) 
+基于hexo构建的网站，完善中...
+
